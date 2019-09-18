@@ -1,2 +1,2 @@
-运行时，需要把lesson09这个文件夹设置为sources root
-不然的话，lesson09.py中的from utils.py会报错
+运行时，需要把lesson02这个文件夹设置为sources root
+不然的话，lesson02.py中的from utils.py会报错
